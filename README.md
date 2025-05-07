@@ -60,7 +60,7 @@ Here are some of the projects I’ve worked on:
   <a href="https://www.linkedin.com/in/adityav01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:av070679@gmail.com">
+  <a href="av070679@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
