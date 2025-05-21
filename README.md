@@ -46,7 +46,7 @@ Here are some of the projects I’ve worked on:
 |--------|------------|-------------|
 | [Customer Loan Analysis Dashboard](https://github.com/vermaaditya01/Excel_Portfolio) | Microsoft Excel | Interactive dashboard to track & analyse customer loans data. |
 | [India CPI Inflation - Case Study](https://github.com/vermaaditya01/CaseStudy_Excel) | Microsoft Excel | Performed deep analysis on Inflation & its impact on India. |
-| [HR Analytics with Excel](https://github.com/your-username/hr-analytics-excel) | Excel | Visualized HR data to uncover trends in attrition, promotions, and performance. |
+
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczI4aWdnMGx1d3d0ZHhzMzg2ODlzOThnZHM1OGpyaGFka3k3ajM1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bmQBu3aSF0DxadphkG/giphy.gif" width="300" />
