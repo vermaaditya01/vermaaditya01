@@ -45,7 +45,7 @@ Here are some of the projects I’ve worked on:
 | Project | Tools Used | Description |
 |--------|------------|-------------|
 | [Customer Loan Analysis Dashboard](https://github.com/vermaaditya01/Excel_Portfolio) | Microsoft Excel | Interactive dashboard to track & analyse customer loans data. |
-| [India CPI Inflation - Case Study](https://github.com/vermaaditya01/CaseStudy_Excel) | Microsoft Excel | Performed deep analysis on Inflation & its impact on India. |
+| [Maven Market Analysis Report](https://github.com/vermaaditya01/SQL-Portfolio) | MS Excel, MySQL Workbench, Power BI,  | A data-driven analysis report designed to uncover key sales, customer, and regional trends, enabling smarter business decisions. |
 
 
 <p align="center">
