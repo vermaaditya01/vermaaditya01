@@ -44,7 +44,7 @@ Here are some of the projects I’ve worked on:
 
 | Project | Tools Used | Description |
 |--------|------------|-------------|
-| [Customer Loan Analysis Dashboard](https://github.com/vermaaditya01/Excel_Portfolio) | Microsoft Excel | Interactive dashboard to track & analyse customer loans data. |
+| [Myntra Sales Analysis Dashboard](https://github.com/vermaaditya01/Excel_Portfolio) | Microsoft Excel | Interactive dashboard to track & analyze Myntra's sales growth & customer interests. |
 | [EduMind Metrics](https://github.com/vermaaditya01/Power-BI-Portfolio) | MS Excel, Power BI | Multi-dashboard project to study Student-success Insights: Academics, Health & Lifestyle. |
 | [Maven Market Analysis Report](https://github.com/vermaaditya01/SQL-Portfolio) | MS Excel, MySQL Workbench, Power BI  | A data-driven analysis report designed to uncover key sales, customer, and regional trends, enabling smarter business decisions. |
 
