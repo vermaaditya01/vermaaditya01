@@ -49,9 +49,7 @@ Here are some of the projects I’ve worked on:
 | [Maven Market Analysis Report](https://github.com/vermaaditya01/SQL-Portfolio) | MS Excel, MySQL Workbench, Power BI  | A data-driven analysis report designed to uncover key sales, customer, and regional trends, enabling smarter business decisions. |
 
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczI4aWdnMGx1d3d0ZHhzMzg2ODlzOThnZHM1OGpyaGFka3k3ajM1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bmQBu3aSF0DxadphkG/giphy.gif" width="300" />
-</p>
+
 
 ---
 
