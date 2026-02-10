@@ -78,8 +78,7 @@ Here are some of the projects I’ve worked on:
 <p align="center">
   🧩 I'm the type of person who<br>
    finds patterns in chaos,<br>
-   turns messy spreadsheets into smart dashboards,<br>
-   and thinks SQL is kinda poetic. 😉
+   turns messy spreadsheets into smart dashboards.
 </p>
 
 ---
