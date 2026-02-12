@@ -3,7 +3,7 @@
 <p align="center"><strong>I'm Aditya – Data Analyst from India</strong> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Exploring+data+to+uncover+insights;Excel+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+C+%7C+EDA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Exploring+data+to+uncover+insights;Excel+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+Statistics" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,26 +14,25 @@
 
 ### 💡 About Me
 
-- 🔍 I analyze and interpret complex data to drive actionable decisions.
-- 💼 Proficient in **Python**, **SQL**, **Power BI**, **Excel**, **C**, and **EDA techniques**.
-- 🎯 Passionate about transforming raw data into powerful stories.
-- 🧠 Consistent learner, always growing my analytical skillset.
-- 🔧 Critical thinker and efficient problem solver.
-- 🚀 Firm believer in **actions over words**.
-- 🌱 Actively exploring the data landscape, one project at a time.
-- 🌏 Based in **India**, on a mission to make data speak.
+Turning data into decisions — one project at a time. I am a data enthusiast skilled in Python, SQL, Power BI, Excel, EDA and statistics passionate about uncovering insights hidden within complex datasets. A lifelong learner and problem solver, driven by curiosity, discipline and impact. Based in India, on a mission to make data speak.
+
 
 ---
 
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-4A148C?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+
 </p>
 
 ---
@@ -60,7 +59,8 @@ Here are some of the projects I’ve worked on:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adityav01/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
   </a>
   <a href="av070679@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
