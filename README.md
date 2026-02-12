@@ -14,7 +14,7 @@
 
 ### 💡 About Me
 
-Turning data into decisions — one project at a time. I am a data enthusiast skilled in Python, SQL, Power BI, Excel, EDA and statistics passionate about uncovering insights hidden within complex datasets. A lifelong learner and problem solver, driven by curiosity, discipline and impact. Based in India, on a mission to make data speak.
+Turning data into decisions — one project at a time. I am a data enthusiast skilled in Python, SQL, Power BI, Excel, EDA and statistics. Passionate about uncovering insights hidden within complex datasets. A lifelong learner and problem solver, driven by curiosity, discipline and impact. Based in India, on a mission to make data speak.
 
 
 ---
